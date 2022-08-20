@@ -1,6 +1,6 @@
 # Paragraph-Generator
 
-An application to generate paragraphs as per user given input for the number of paragraphs
+An application to generate paragraphs as per user given input for the number of paragraphs using HTML, CSS and JavaScript
 
 <h2> Landing Page </h2>
 
